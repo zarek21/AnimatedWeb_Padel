@@ -63,7 +63,7 @@ export default function BookingMap() {
         </ShinyButton>
 
         <footer className="absolute bottom-6 text-muted-foreground text-xs font-mono uppercase">
-          © 2026 LUXURY PADEL CLUB. ALL RIGHTS RESERVED.
+          Designed by Zarek © 2026 LUXURY PADEL CLUB. ALL RIGHTS RESERVED.
         </footer>
       </div>
     </section>
